@@ -6,6 +6,6 @@ Pillow
 scikit-learn
 matplotlib
 seaborn
-opencv-python
+opencv-python-headless
 scikit-image
 streamlit-option-menu
